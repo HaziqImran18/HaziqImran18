@@ -3,13 +3,13 @@
 <h3 align="center">🚀 AI Engineer | Deep Learning Specialist | Innovator</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haziqimran18&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=00CFFF"  width="800" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haziqimran18&layout=compact&card_width=320&langs_count=5&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=00CFFF" width="760" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haziqimran18&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=00CFFF"  height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haziqimran18&layout=compact&card_width=320&langs_count=5&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=00CFFF" height="150" alt="languages graph" />
 </div>
 
 ---
 
-<h2 align="left">👨🏻‍💻 About Me</h2>
+<h3 align="left">👨🏻‍💻 About Me</h3>
 <img align="right" height="220" style="margin-left: 10px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1rODBhbTJnb3BqZXRrZGt6dHZudmsycGx6MGEzY3Z4eWt0b2tkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" />
 
 <ul>
@@ -22,7 +22,7 @@
 
 ---
 
-<h2 align="left">🔧 Tools & Technologies</h2>
+<h3 align="left">🔧 Tools & Technologies</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
   <img width="12" />
@@ -73,4 +73,4 @@
 
 ---
 
-<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=haziqimran18&theme=radical&background=0D1117&ring=00CFFF&fire=00CFFF" alt="GitHub Streak" />
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=haziqimran18&theme=radical&background=0D1117&ring=00CFFF&fire=00CFFF" alt="GitHub Streak" />
