@@ -68,4 +68,4 @@
   </a>
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haziqimran18&theme=radical&background=0D1117&ring=00CFFF&fire=00CFFF" alt="GitHub Streak" />
+<img width= "900" src="https://github-readme-streak-stats.herokuapp.com/?user=haziqimran18&theme=radical&background=0D1117&ring=00CFFF&fire=00CFFF" alt="GitHub Streak" />
