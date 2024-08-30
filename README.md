@@ -3,48 +3,53 @@
 <h3 align="center">🚀 AI Engineer | Deep Learning Expert | Innovator</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haziqimran18&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=00CFFF" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haziqimran18&layout=compact&card_width=320&langs_count=5&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=00CFFF" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haziqimran18&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=00CFFF" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haziqimran18&layout=compact&card_width=320&langs_count=5&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=00CFFF" height="200" alt="languages graph" />
 </div>
 
 ##
-<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVmdTExZzhkZjFxNW5zdTA3bGJ3c2dzdW55NWN4eDFrbXloc3FlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUDGo9jYZzVt3DExhi/giphy.gif" />
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w4YThrYnk2eWNwaWNrYXQ4YjA4eWg3ZmQxdm5rbzU4aHV3aW1vcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 
 ###
 
-<h3 align="left">💡 About Me</h3>
-<p align="left">
-I am Haziq Imran, a distinguished AI Engineer with a focus on deep learning and machine learning. Currently pursuing a Bachelor's degree in Artificial Intelligence at Khwaja Fareed University of Engineering & IT (KFUEIT), Pakistan, I am committed to pushing the frontiers of technology through innovative research and practical applications. My expertise includes deep learning, computer vision, and natural language processing (NLP), and I am actively expanding my skills in large language models (LLMs) to drive advancements in these areas. My goal is to contribute to groundbreaking research and transformative AI solutions, with a particular interest in avionics and space exploration. Through my work, I aim to tackle complex challenges and make a significant impact in the AI and deep learning landscapes.
-</p>
+<h3 align="left">👨🏻‍💻 About Me</h3>
+<ul>
+  <li><strong>AI Engineer</strong> specializing in Deep Learning and Machine Learning.</li>
+  <li><strong>Education:</strong> Pursuing a Bachelor's in Artificial Intelligence at Khwaja Fareed University of Engineering & IT (KFUEIT), Pakistan.</li>
+  <li><strong>Focus Areas:</strong> Deep Learning, Computer Vision, and Natural Language Processing (NLP).</li>
+  <li><strong>Expanding Skills:</strong> Actively learning about Large Language Models (LLMs).</li>
+  <li><strong>Goals:</strong> Contributing to AI research, driving innovation, and exploring applications in avionics and space exploration.</li>
+</ul>
 
-<h3 align="left">🔧 Tools & Technologies</h3>
+###
+<h2 align="left">🔧 Tools & Technologies</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" alt="keras logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" alt="keras logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="30" alt="cloudflare logo" />
+  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="50" alt="cloudflare logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=gTh24WvhQ5sg&format=png&color=000000" height="30" alt="data processing logo" />
+  <img src="https://img.icons8.com/?size=100&id=gTh24WvhQ5sg&format=png&color=000000" height="50" alt="data processing logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="30" alt="shell logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="50" alt="shell logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="google cloud logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="google cloud logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" height="30" alt="colab logo" />
+  <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" height="50" alt="colab logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
 </div>
 
 <h3 align="left">🌟 Current Projects</h3>
-<p align="left">
-  - Deep Learning Innovations: I am working on advancing deep learning models and algorithms to tackle complex problems, including projects related to space debris prediction, handwritten digit recognition, and customer churn prediction.<br>
-  - AI Solutions: I am developing cutting-edge AI applications that aim to make a real-world impact, such as creating chatbots, document generation systems using GPT, and space debris collision prediction models.
-</p>
+<ul>
+  <li><strong>Deep Learning Innovations:</strong> Advancing models and algorithms to tackle complex problems, including space debris prediction, handwritten digit recognition, and customer churn prediction.</li>
+  <li><strong>AI Solutions:</strong> Developing impactful AI applications such as chatbots, document generation systems using GPT, and space debris collision prediction models.</li>
+</ul>
 
 <h3 align="left">🌐 Connect with Me</h3>
 <div align="left">
