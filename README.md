@@ -7,7 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haziqimran18&layout=compact&card_width=320&langs_count=5&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=00CFFF" height="150" alt="languages graph" />
 </div>
 
-<img align="right" height="150" src="https://media.giphy.com/media/xT5LMG4RHl1FhpRGJO/giphy.gif" alt="excited gif" />
+##
+<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVmdTExZzhkZjFxNW5zdTA3bGJ3c2dzdW55NWN4eDFrbXloc3FlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUDGo9jYZzVt3DExhi/giphy.gif" />
+
+###
 
 <h3 align="left">💡 About Me</h3>
 <p align="left">
