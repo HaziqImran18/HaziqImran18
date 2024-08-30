@@ -8,11 +8,12 @@
 </div>
 
 ##
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w4YThrYnk2eWNwaWNrYXQ4YjA4eWg3ZmQxdm5rbzU4aHV3aW1vcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 
 ###
 
-<h3 align="left">👨🏻‍💻 About Me</h3>
+<h2 align="left">👨🏻‍💻 About Me</h2>
+<img align="right" height="220" style="margin-left= 10px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1rODBhbTJnb3BqZXRrZGt6dHZudmsycGx6MGEzY3Z4eWt0b2tkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" />
+
 <ul>
   <li><strong>AI Engineer</strong> specializing in Deep Learning and Machine Learning.</li>
   <li><strong>Education:</strong> Pursuing a Bachelor's in Artificial Intelligence at Khwaja Fareed University of Engineering & IT (KFUEIT), Pakistan.</li>
