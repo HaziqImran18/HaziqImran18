@@ -73,4 +73,5 @@
 
 ---
 
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=haziqimran18&theme=radical&background=0D1117&ring=00CFFF&fire=00CFFF" alt="GitHub Streak" />
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=haziqimran18&theme=radical&background=161b22&ring=00fa9a&fire=00ffff&currStreakNum=00ffff&sideNums=00ffff&dates=00ffff" alt="GitHub Streak" />
+
