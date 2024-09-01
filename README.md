@@ -3,9 +3,9 @@
 <h3 align="center">🚀 AI Engineer | Deep Learning Specialist | Innovator</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haziqimran18&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=00CFFF"  height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haziqimran18&layout=compact&card_width=320&langs_count=5&theme=radical&bg_color=0D1117&text_color=ffffff&icon_color=00CFFF" height="150" alt="languages graph" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=haziqimran18&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=161b22&text_color=00ffff&icon_color=00fa9a&title_color=00fa9a" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=haziqimran18&layout=compact&card_width=320&langs_count=5&bg_color=161b22&text_color=00ffff&icon_color=00fa9a&title_color=00fa9a" height="150" alt="languages graph" />
+
 
 ---
 
