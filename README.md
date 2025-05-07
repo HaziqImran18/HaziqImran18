@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haziqimran18&layout=compact&card_width=320&langs_count=5&bg_color=161b22&text_color=00ffff&icon_color=00fa9a&title_color=00fa9a" height="150" alt="Top Languages" />
 </div>
 
----
+
 
 <h3 align="left">👨🏻‍💻 About Me</h3>
 <div align="left">
@@ -16,7 +16,7 @@
   <p>My current research involves exploring Large Language Models (LLMs) and their applications across various domains. I am committed to making meaningful contributions to AI research, particularly in avionics and space exploration. My technical proficiency includes Python, TensorFlow, PyTorch, and other cutting-edge AI tools.</p>
 </div>
 
----
+
 
 <h3 align="left">🔧 Tools & Technologies</h3>
 <div align="left">
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
 </div>
 
----
+
 
 <h3 align="left">🌟 Notable Projects</h3>
 <ul>
@@ -43,7 +43,7 @@
   <li><strong>Nexa (QA Bot):</strong> Developed a sophisticated question-answering bot utilizing advanced NLP techniques for dynamic interactions.</li>
 </ul>
 
----
+
 
 <h3 align="left">🌐 Connect with Me</h3>
 <div align="left">
