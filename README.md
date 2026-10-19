@@ -40,15 +40,43 @@ class Haziq:
 
 <br clear="right"/>
 
-## ⚡ What I'm Interested In
+## ⚡ What I Bring to AI Engineering
 
 <div align="center">
-  <img src="https://img.shields.io/badge/01-LLM%20Applications-7C3AED?style=for-the-badge" alt="LLM applications"/>
-  <img src="https://img.shields.io/badge/02-Tool%20Calling-0891B2?style=for-the-badge" alt="Tool calling"/>
-  <img src="https://img.shields.io/badge/03-Workflow%20Orchestration-059669?style=for-the-badge" alt="Workflow orchestration"/>
-  <img src="https://img.shields.io/badge/04-Multi--Agent%20Systems-EA580C?style=for-the-badge" alt="Multi-agent systems"/>
-  <img src="https://img.shields.io/badge/05-MCP-DB2777?style=for-the-badge" alt="Model Context Protocol"/>
-  <img src="https://img.shields.io/badge/06-Evaluation%20%26%20Reliability-475569?style=for-the-badge" alt="AI evaluation"/>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🤖 Intelligent AI Systems</h3>
+      LLM-powered applications, agentic workflows, and multi-step task execution.
+    </td>
+    <td align="center" width="50%">
+      <h3>🔗 AI Integrations</h3>
+      Tool calling, APIs, external services, and connected data sources.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧠 Context & Memory</h3>
+      Stateful conversations, semantic retrieval, and context-aware applications.
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 Evaluation & Reliability</h3>
+      Testing AI outputs, comparing approaches, and analyzing failure cases.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚙️ Software Engineering</h3>
+      Python-based development, backend APIs, and practical system integration.
+    </td>
+    <td align="center" width="50%">
+      <h3>🚀 End-to-End Development</h3>
+      Turning AI concepts into usable applications through iterative development.
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ## 🧰 My Tech Stack
@@ -79,72 +107,25 @@ class Haziq:
 
 </div>
 
-## 🚀 Projects I've Built
+## 🛠️ My Engineering Approach
 
-### 🛍️ ShopGen AI — WhatsApp Shopping Agent
-<img align="right" width="150" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Shopping animation"/>
+```text
+Understand the Problem
+        ↓
+Design the System
+        ↓
+Build & Integrate
+        ↓
+Test Real-World Behavior
+        ↓
+Measure, Debug & Improve
+```
 
-My final-year project: a conversational shopping system designed to help users discover products, compare prices, and receive personalized fashion recommendations directly through WhatsApp.
-
-- 🤖 LangGraph-powered multi-agent workflows.
-- 🧠 Stateful conversations and persistent user preferences.
-- 🔎 Semantic product search using Pinecone.
-- 🎙️ Voice and text interaction through Whisper and WhatsApp integrations.
-- ⚡ Designed for sub-3-second query responses.
-
-<sub>Stack: Python · LangGraph · LangChain · GPT-4o mini · FastAPI · Pinecone · Firebase · SerpAPI · Whisper</sub>
-
-<br clear="right"/>
-
-### 🎓 AI Scholarship Assistant — Scholarship Guidance Platform
-
-A team project focused on making scholarship discovery and application preparation easier.
-
-- 🌍 Scholarship knowledge base covering 120+ opportunities.
-- 🔍 Retrieval-augmented question answering.
-- 🎯 Personalized scholarship recommendations through an AI Mentor.
-- 📄 ATS-style CV checking, keyword extraction, and compatibility scoring.
-- 🧰 A platform with 12+ integrated AI tools.
-
-<sub>Stack: Python · Flask · LLMs · RAG · Pinecone · SQLite · SQLAlchemy</sub>
-
-### 🧠 MindBridge AI — Conversational Mental Wellness Companion
-
-An empathetic conversational AI application designed to maintain context across sessions instead of treating every conversation as a fresh start.
-
-- 💬 Context-aware conversational support.
-- 🧠 Retrieval-based memory for continuity across sessions.
-- 📝 Automatic session summaries.
-- 🎯 Adaptive user profiling across 50+ simulated interactions.
-
-<sub>Stack: Python · FastAPI · LangChain · LLMs · Pinecone · Prompt Engineering</sub>
-
-### 📬 ProfReach — AI Professor Outreach Automation
-<img align="right" width="135" src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="Email automation animation"/>
-
-An ongoing project aimed at automating the research and preparation behind personalized academic outreach.
-
-- 🔎 Discover and analyze professor research profiles.
-- 🧩 Match research interests with publications using semantic similarity.
-- ✍️ Generate personalized outreach emails.
-- 📩 Integrate with Gmail for email delivery and response tracking.
-
-<sub>Stack: Python · LangGraph · LLMs · Selenium · BeautifulSoup · Gmail API · FastAPI</sub>
-
-<br clear="right"/>
-
-### 🥋 MMA Vision — Multi-Person Martial Arts Pose Detection
-
-A computer vision system for analyzing movement in martial arts videos.
-
-- 👁️ YOLOv8-based fighter detection.
-- 🦴 MediaPipe pose estimation with 15+ body keypoints.
-- 📐 Joint-angle and motion-pattern extraction.
-- 🎥 Real-time inference targeting 25+ FPS on standard hardware.
-
-<sub>Stack: Python · OpenCV · YOLOv8 · MediaPipe · Deep Learning</sub>
-
----
+- **Problem-first thinking:** Start with the use case, not the framework.
+- **System-level thinking:** Consider data flow, tools, state, and failure handling.
+- **Practical implementation:** Focus on working software and meaningful integrations.
+- **Evidence-driven improvement:** Use evaluation results to identify weaknesses and guide changes.
+- **Continuous learning:** Explore emerging AI techniques and apply them where they add real value.
 
 ## 📊 GitHub Dashboard
 
