@@ -1,149 +1,177 @@
-<!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F5D4&height=200&section=header&text=Haziq%20Imran&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20AI%20Systems&descAlignY=58&descSize=18" width="100%" alt="Profile header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:080808,45:172554,100:00F5D4&text=HAZIQ%20IMRAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20ENGINEERING%20%2F%20AGENTIC%20SYSTEMS&descSize=15&descAlignY=60" alt="Animated profile banner"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Agentic+AI+Enthusiast;LLMs+%7C+Tool+Calling+%7C+AI+Orchestration;From+Experiments+to+Reliable+AI+Systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=I+build+AI+systems%2C+not+just+prompts.;LLMs+%E2%86%92+Tools+%E2%86%92+Workflows.;Curious+about+what+agents+can+actually+do." alt="Animated introduction"/>
 
-  <br/>
-
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-00F5D4?style=for-the-badge&labelColor=101820" alt="Agentic AI focus" />
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Building-LLM%20Applications-7B61FF?style=for-the-badge" alt="LLM applications" />
-
-  <br/><br/>
-
-  <a href="https://github.com/haziqimran18">
-    <img src="https://komarev.com/ghpvc/?username=haziqimran18&style=flat-square&color=00F5D4&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
+  <p>
+    <img src="https://img.shields.io/badge/FOCUS-Agentic%20AI-00F5D4?style=for-the-badge&labelColor=101820" alt="Agentic AI"/>
+    <img src="https://img.shields.io/badge/BUILDING-LLM%20Applications-7C3AED?style=for-the-badge&labelColor=101820" alt="LLM applications"/>
+    <img src="https://img.shields.io/badge/POWERED%20BY-Curiosity-FFB703?style=for-the-badge&labelColor=101820" alt="Curiosity"/>
+  </p>
+  <a href="https://github.com/HaziqImran18"><img src="https://komarev.com/ghpvc/?username=haziqimran18&style=flat-square&color=00F5D4&label=VISITORS" alt="Profile visitors"/></a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍🚀 A Little About Me
 
-I'm an **AI graduate focused on building practical, intelligent AI systems**, with a growing specialization in Agentic AI and LLM-powered applications.
+Hey! I'm Haziq — an AI graduate who likes figuring out how to turn an idea into a working AI product.
 
-Rather than stopping at model experimentation, I'm interested in engineering systems that can reason through tasks, call tools, coordinate workflows, and evaluate their own outputs.
+I've worked on everything from a WhatsApp shopping agent that searches for products and compares prices to AI tools for scholarship guidance and professor outreach. Lately, my attention has shifted toward **Agentic AI**: systems that use tools, maintain context, follow workflows, and do more than generate a response.
 
-- 🤖 **Current focus:** Agentic AI, LLM applications, and multi-agent workflows.
-- 🛠️ **Building with:** Python, LLM APIs, document processing, and retrieval-based systems.
-- 🧠 **Exploring:** Tool calling, orchestration, agent evaluation, and reliable AI workflows.
-- 📊 **Interested in:** AI engineering, applied machine learning, and production-oriented system design.
-- 🚀 **Goal:** Turn AI concepts into useful, measurable, and maintainable software.
+I care about what happens beyond the demo: Does it work? Can we measure it? What happens when the model gets it wrong?
+
+- 🧩 **Building:** LLM applications and agentic workflows.
+- 🔧 **Exploring:** Tool calling, multi-agent orchestration, MCP, and evaluation.
+- 🛠️ **My playground:** Python, LangChain, LangGraph, APIs, and vector search.
+- 🎯 **My direction:** AI engineering, intelligent automation, and reliable AI systems.
+
+<img align="right" width="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer coding animation"/>
+
+```python
+class Haziq:
+    focus = "Agentic AI"
+    language = "Python"
+    mindset = "Build -> Test -> Improve"
+
+    def next_step(self):
+        return "Make AI useful in the real world"
+```
+
+<br clear="right"/>
+
+## ⚡ What I'm Interested In
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ4b2N2bWZ4bG9hN2N5cGk3OGF0b3JwNGh1OWp4d3d1cG5kZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="340" alt="Technology animation" />
+  <img src="https://img.shields.io/badge/01-LLM%20Applications-7C3AED?style=for-the-badge" alt="LLM applications"/>
+  <img src="https://img.shields.io/badge/02-Tool%20Calling-0891B2?style=for-the-badge" alt="Tool calling"/>
+  <img src="https://img.shields.io/badge/03-Workflow%20Orchestration-059669?style=for-the-badge" alt="Workflow orchestration"/>
+  <img src="https://img.shields.io/badge/04-Multi--Agent%20Systems-EA580C?style=for-the-badge" alt="Multi-agent systems"/>
+  <img src="https://img.shields.io/badge/05-MCP-DB2777?style=for-the-badge" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/06-Evaluation%20%26%20Reliability-475569?style=for-the-badge" alt="AI evaluation"/>
 </div>
 
-## 🧠 Current Focus
-
-<div align="center">
-
-| Area | What I'm working toward |
-|:---|:---|
-| 🤖 Agentic AI | Agents that execute multi-step tasks |
-| 🔧 Tool Calling | Connecting LLMs with useful external functions |
-| 🔀 Orchestration | Designing structured workflows and agent handoffs |
-| 📚 Knowledge Systems | Document ingestion, retrieval, and grounded answers |
-| 🧪 Evaluation | Measuring correctness, failure cases, latency, and reliability |
-
-</div>
-
-## 🚀 Featured Project
-
-### ⚙️ EngiGraph AI — Engineering Document Intelligence
-
-An evolving AI engineering project focused on answering engineering questions using technical documentation and comparing retrieval-based approaches with multi-agent workflows.
-
-**Key objectives**
-- 📄 Extract and process information from engineering PDFs.
-- 🔎 Retrieve relevant evidence to ground generated answers.
-- 🤖 Explore multi-agent workflows for more complex questions.
-- 🧪 Evaluate answer correctness, abstention, partial answers, and execution latency.
-- 📈 Compare approaches using repeatable evaluation datasets.
-
-**Tech stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-6C63FF?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-00A896?style=flat-square)
-![Evaluation](https://img.shields.io/badge/AI%20Evaluation-FFB703?style=flat-square)
-![PDF Processing](https://img.shields.io/badge/PDF%20Processing-E76F51?style=flat-square)
-
-<a href="https://github.com/HaziqImran18/EngiGraph-AI">
-  <img src="https://img.shields.io/badge/View%20Project-EngiGraph%20AI-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="View EngiGraph AI" />
-</a>
-
-*Current emphasis: moving beyond basic question answering toward measurable, tool-enabled AI workflows.*
-
-## 🧰 Tech Stack
+## 🧰 My Tech Stack
 
 <div align="center">
 
-**Core Language & Development**
+**Core Development**
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub, and VS Code" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,git,github&theme=dark" alt="Python, FastAPI, Git, GitHub"/>
 
-**AI & Machine Learning**
+**Agentic AI & LLM Engineering**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow, and scikit-learn" />
+<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/></a>
+<a href="https://www.langchain.com/langgraph"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangGraph"/></a>
+<a href="https://www.crewai.com/"><img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white" alt="CrewAI"/></a>
+<a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-5B5BD6?style=for-the-badge&logoColor=white" alt="Model Context Protocol"/></a>
+<a href="https://platform.openai.com/"><img src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs"/></a>
 
-**LLM Engineering Concepts**
+**Machine Learning**
 
-<img src="https://img.shields.io/badge/LLM%20Applications-8A63D2?style=for-the-badge" alt="LLM applications" />
-<img src="https://img.shields.io/badge/Retrieval%20Augmented%20Generation-00897B?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-1565C0?style=for-the-badge" alt="Multi-agent systems" />
-<img src="https://img.shields.io/badge/Tool%20Calling-EF6C00?style=for-the-badge" alt="Tool calling" />
+<img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow&theme=dark" alt="Scikit-learn and TensorFlow"/>
+
+**Supporting Tools**
+
+<img src="https://img.shields.io/badge/Pinecone-0052CC?style=for-the-badge&logoColor=white" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 
 </div>
 
-## 📂 Other Projects
+## 🚀 Projects I've Built
 
-| Project | Focus |
-|:---|:---|
-| **Trustee — AI Counseling Companion** | Conversational AI and supportive user interactions |
-| **Paper Pilot** | Extracting useful insights from research papers |
-| **Nexa — Question Answering Bot** | NLP-powered question answering |
-| **Sign Language Recognition** | Computer vision and accessibility |
-| **Space Debris Prediction** | Predictive modeling for space-related data |
-| **Customer Churn Prediction** | Machine learning for business analytics |
-| **Handwritten Digit Recognition** | CNN-based image classification |
-| **Spam Email Prediction** | Text classification and spam detection |
+### 🛍️ ShopGen AI — WhatsApp Shopping Agent
+<img align="right" width="150" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Shopping animation"/>
 
-## 📊 GitHub Analytics
+My final-year project: a conversational shopping system designed to help users discover products, compare prices, and receive personalized fashion recommendations directly through WhatsApp.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haziqimran18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B61FF&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics" />
+- 🤖 LangGraph-powered multi-agent workflows.
+- 🧠 Stateful conversations and persistent user preferences.
+- 🔎 Semantic product search using Pinecone.
+- 🎙️ Voice and text interaction through Whisper and WhatsApp integrations.
+- ⚡ Designed for sub-3-second query responses.
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haziqimran18&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&langs_count=6" height="165" alt="Most-used languages" />
+<sub>Stack: Python · LangGraph · LangChain · GPT-4o mini · FastAPI · Pinecone · Firebase · SerpAPI · Whisper</sub>
 
-  <br/>
+<br clear="right"/>
 
-  <img src="https://streak-stats.demolab.com?user=haziqimran18&hide_border=true&background=0D1117&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" height="165" alt="GitHub contribution streak" />
-</div>
+### 🎓 AI Scholarship Assistant — Scholarship Guidance Platform
 
-## 🤝 Let's Connect
+A team project focused on making scholarship discovery and application preparation easier.
 
-I'm interested in connecting with AI engineers, developers, and teams working on practical AI applications, LLM engineering, and intelligent automation.
+- 🌍 Scholarship knowledge base covering 120+ opportunities.
+- 🔍 Retrieval-augmented question answering.
+- 🎯 Personalized scholarship recommendations through an AI Mentor.
+- 📄 ATS-style CV checking, keyword extraction, and compatibility scoring.
+- 🧰 A platform with 12+ integrated AI tools.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/haziq-imran-778760312">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hazziq595959@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/HaziqImran18">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+<sub>Stack: Python · Flask · LLMs · RAG · Pinecone · SQLite · SQLAlchemy</sub>
+
+### 🧠 MindBridge AI — Conversational Mental Wellness Companion
+
+An empathetic conversational AI application designed to maintain context across sessions instead of treating every conversation as a fresh start.
+
+- 💬 Context-aware conversational support.
+- 🧠 Retrieval-based memory for continuity across sessions.
+- 📝 Automatic session summaries.
+- 🎯 Adaptive user profiling across 50+ simulated interactions.
+
+<sub>Stack: Python · FastAPI · LangChain · LLMs · Pinecone · Prompt Engineering</sub>
+
+### 📬 ProfReach — AI Professor Outreach Automation
+<img align="right" width="135" src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="Email automation animation"/>
+
+An ongoing project aimed at automating the research and preparation behind personalized academic outreach.
+
+- 🔎 Discover and analyze professor research profiles.
+- 🧩 Match research interests with publications using semantic similarity.
+- ✍️ Generate personalized outreach emails.
+- 📩 Integrate with Gmail for email delivery and response tracking.
+
+<sub>Stack: Python · LangGraph · LLMs · Selenium · BeautifulSoup · Gmail API · FastAPI</sub>
+
+<br clear="right"/>
+
+### 🥋 MMA Vision — Multi-Person Martial Arts Pose Detection
+
+A computer vision system for analyzing movement in martial arts videos.
+
+- 👁️ YOLOv8-based fighter detection.
+- 🦴 MediaPipe pose estimation with 15+ body keypoints.
+- 📐 Joint-angle and motion-pattern extraction.
+- 🎥 Real-time inference targeting 25+ FPS on standard hardware.
+
+<sub>Stack: Python · OpenCV · YOLOv8 · MediaPipe · Deep Learning</sub>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=00F5D4&center=true&vCenter=true&width=650&lines=Build+with+curiosity.;Engineer+with+intent.;Measure+what+matters." alt="Closing animation" />
+## 📊 GitHub Dashboard
 
-  <sub>Designed with curiosity, built through experimentation, improved through evaluation.</sub>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HaziqImran18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub activity statistics"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaziqImran18&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" alt="Most-used languages calculated from GitHub repositories"/>
+
+  <br/>
+
+  <img width="80%" src="https://streak-stats.demolab.com?user=HaziqImran18&theme=dark&hide_border=true&background=0D1117&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4" alt="GitHub contribution streak"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:0F2027&height=100&section=footer" width="100%" alt="Footer decoration" />
+<sub>Language statistics are generated from the repositories GitHub Stats can access, rather than a manually selected language list. Forks, private repositories, and unsupported languages may affect the results.</sub>
+
+## 🤝 Find Me Around the Internet
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/haziq-imran-778760312"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:hazziq595959@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/HaziqImran18"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Still+learning.+Still+building.;Less+hype%2C+more+working+software.;The+next+experiment+starts+now+%F0%9F%9A%80" alt="Closing animation"/>
+
+  <br/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:080808&height=100&section=footer" alt="Footer banner"/>
+</div>
