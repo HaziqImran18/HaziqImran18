@@ -189,7 +189,7 @@ class Haziq:
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=HaziqImran18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="GitHub stats"/>
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaziqImran18&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&cache_seconds=86400"
+  src="https://vercel.app"
   alt="Top Languages"
 />
 
