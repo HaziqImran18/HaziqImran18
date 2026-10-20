@@ -16,9 +16,6 @@
   <img src="https://img.shields.io/badge/STATUS-Building%20Daily-00C853?style=for-the-badge&labelColor=101820" alt="Status"/>
 </p>
 
-<a href="https://github.com/HaziqImran18">
-  <img src="https://komarev.com/ghpvc/?username=HaziqImran18&style=flat-square&color=00F5D4&label=VISITORS" alt="Profile Visitors"/>
-</a>
 <a href="https://github.com/HaziqImran18?tab=followers"><img src="https://img.shields.io/github/followers/HaziqImran18?style=flat-square&color=7C3AED&labelColor=101820&label=FOLLOWERS" alt="Followers"/></a>
 <a href="https://github.com/HaziqImran18"><img src="https://img.shields.io/github/stars/HaziqImran18?style=flat-square&color=FFB703&labelColor=101820&label=STARS" alt="Stars"/></a>
 
@@ -173,13 +170,25 @@ class Haziq:
 
 </div>
 
-| Principle | What it means to me |
-|:--|:--|
-| 🎯 **Problem-first** | Start with the use case, not the framework. |
-| 🏗️ **System-level thinking** | Consider data flow, tools, state, and failure handling. |
-| ⚙️ **Practical implementation** | Working software over buzzwords. |
-| 📈 **Evidence-driven** | Evaluation results guide every change. |
-| 🌱 **Continuous learning** | Explore new AI techniques and apply them where they add value. |
+
+<div align="left">
+
+<h3>🎯 Problem-first</h3>
+<p>Start with the use case, not the framework.</p>
+
+<h3>🏗️ System-level thinking</h3>
+<p>Consider data flow, tools, state, and failure handling.</p>
+
+<h3>⚙️ Practical implementation</h3>
+<p>Working software over buzzwords.</p>
+
+<h3>📈 Evidence-driven</h3>
+<p>Evaluation results guide every change.</p>
+
+<h3>🌱 Continuous learning</h3>
+<p>Explore new AI techniques and apply them where they add value.</p>
+
+</div>
 
 ---
 
@@ -195,14 +204,6 @@ class Haziq:
 <img width="80%" src="https://streak-stats.demolab.com?user=HaziqImran18&theme=dark&hide_border=true&background=0D1117&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4" alt="Streak"/>
 
 <br/><br/>
-
-[![GitHub Activity Graph](YOUR_VERCEL_URL/graph?username=HaziqImran18)](https://github.com/HaziqImran18)
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=HaziqImran18&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
 
 <sub>📌 Language statistics are generated from public repositories. Forks, private repositories, and unsupported languages may affect results.</sub>
 
