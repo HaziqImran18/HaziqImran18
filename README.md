@@ -126,14 +126,28 @@ class Haziq:
 
 ### 🤖 Agentic AI & LLM Engineering
 
-<p>
-<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/></a>
-<a href="https://www.langchain.com/langgraph"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangGraph"/></a>
-<a href="https://www.crewai.com/"><img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white" alt="CrewAI"/></a>
-<a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-5B5BD6?style=for-the-badge&logoColor=white" alt="MCP"/></a>
-<a href="https://platform.openai.com/"><img src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs"/></a>
-<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+
+<p align="left">
+  <a href="https://www.langchain.com/">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  </a>
+  <a href="https://www.langchain.com/langgraph">
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangGraph"/>
+  </a>
+  <a href="https://www.crewai.com/">
+    <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white" alt="CrewAI"/>
+  </a>
+  <a href="https://modelcontextprotocol.io/">
+    <img src="https://img.shields.io/badge/MCP-5B5BD6?style=for-the-badge&logoColor=white" alt="MCP"/>
+  </a>
+  <a href="https://platform.openai.com/">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  </a>
+  <a href="https://huggingface.co/">
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
 </p>
+
 
 ### 🧠 Machine Learning
 
