@@ -155,28 +155,30 @@ class Haziq:
 
 ## 🛠️ My Engineering Approach
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60" alt="Thinking"/>
-&nbsp; **Understand** &nbsp;→&nbsp;
-<img src="https://media.giphy.com/media/26BRt1OqB1Rk1Z7v2/giphy.gif" width="60" alt="Design"/>
-&nbsp; **Design** &nbsp;→&nbsp;
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" alt="Build"/>
-&nbsp; **Build** &nbsp;→&nbsp;
-<img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="60" alt="Test"/>
-&nbsp; **Test** &nbsp;→&nbsp;
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" alt="Measure"/>
-&nbsp; **Measure & Improve**
-
-</div>
+<p align="center">
+  <b>UNDERSTAND → DESIGN → BUILD → TEST → IMPROVE</b>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_Problem--First-Start_with_the_use_case-2563EB?style=for-the-badge" alt="Problem-first"/>
-  <img src="https://img.shields.io/badge/🏗️_System_Thinking-Data,_tools_&_state-7C3AED?style=for-the-badge" alt="System-level thinking"/>
-  <img src="https://img.shields.io/badge/⚙️_Practical_Implementation-Working_software-059669?style=for-the-badge" alt="Practical implementation"/>
-  <img src="https://img.shields.io/badge/📈_Evidence--Driven-Evaluate_every_change-EA580C?style=for-the-badge" alt="Evidence-driven"/>
-  <img src="https://img.shields.io/badge/🌱_Continuous_Learning-Apply_new_AI_techniques-0891B2?style=for-the-badge" alt="Continuous learning"/>
+  <img src="https://img.shields.io/badge/01-Understand-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/02-Design-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/03-Build-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/04-Test-EA580C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/05-Improve-0891B2?style=for-the-badge" />
 </p>
+
+---
+
+### 💡 Core Principles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Problem--First-Use_Case_Before_Framework-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/🏗️_System_Thinking-Data_·_Tools_·_State-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/⚙️_Practical_Engineering-Working_Software-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/📊_Evidence--Driven-Measure_&_Evaluate-EA580C?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌱_Continuous_Learning-Apply_What_Works-0891B2?style=flat-square" />
+</p>
+
 
 ---
 
