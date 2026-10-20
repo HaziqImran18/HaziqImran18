@@ -127,7 +127,7 @@ class Haziq:
 ### 🤖 Agentic AI & LLM Engineering
 
 
-<p align="left">
+<p align="center">
   <a href="https://www.langchain.com/">
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
   </a>
