@@ -170,25 +170,13 @@ class Haziq:
 
 </div>
 
-
-<div align="left">
-
-<h3>🎯 Problem-first</h3>
-<p>Start with the use case, not the framework.</p>
-
-<h3>🏗️ System-level thinking</h3>
-<p>Consider data flow, tools, state, and failure handling.</p>
-
-<h3>⚙️ Practical implementation</h3>
-<p>Working software over buzzwords.</p>
-
-<h3>📈 Evidence-driven</h3>
-<p>Evaluation results guide every change.</p>
-
-<h3>🌱 Continuous learning</h3>
-<p>Explore new AI techniques and apply them where they add value.</p>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Problem--First-Start_with_the_use_case-2563EB?style=for-the-badge" alt="Problem-first"/>
+  <img src="https://img.shields.io/badge/🏗️_System_Thinking-Data,_tools_&_state-7C3AED?style=for-the-badge" alt="System-level thinking"/>
+  <img src="https://img.shields.io/badge/⚙️_Practical_Implementation-Working_software-059669?style=for-the-badge" alt="Practical implementation"/>
+  <img src="https://img.shields.io/badge/📈_Evidence--Driven-Evaluate_every_change-EA580C?style=for-the-badge" alt="Evidence-driven"/>
+  <img src="https://img.shields.io/badge/🌱_Continuous_Learning-Apply_new_AI_techniques-0891B2?style=for-the-badge" alt="Continuous learning"/>
+</p>
 
 ---
 
