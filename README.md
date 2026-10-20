@@ -16,7 +16,9 @@
   <img src="https://img.shields.io/badge/STATUS-Building%20Daily-00C853?style=for-the-badge&labelColor=101820" alt="Status"/>
 </p>
 
-<a href="https://github.com/HaziqImran18"><img src="https://komarev.com/ghpvc/?username=haziqimran18&style=flat-square&color=00F5D4&label=VISITORS" alt="Visitors"/></a>
+<a href="https://github.com/HaziqImran18">
+  <img src="https://komarev.com/ghpvc/?username=HaziqImran18&style=flat-square&color=00F5D4&label=VISITORS" alt="Profile Visitors"/>
+</a>
 <a href="https://github.com/HaziqImran18?tab=followers"><img src="https://img.shields.io/github/followers/HaziqImran18?style=flat-square&color=7C3AED&labelColor=101820&label=FOLLOWERS" alt="Followers"/></a>
 <a href="https://github.com/HaziqImran18"><img src="https://img.shields.io/github/stars/HaziqImran18?style=flat-square&color=FFB703&labelColor=101820&label=STARS" alt="Stars"/></a>
 
@@ -194,7 +196,7 @@ class Haziq:
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HaziqImran18&bg_color=0D1117&color=00F5D4&line=7C3AED&point=FFB703&hide_border=true&area=true" alt="Activity graph"/>
+[![GitHub Activity Graph](YOUR_VERCEL_URL/graph?username=HaziqImran18)](https://github.com/HaziqImran18)
 
 <br/>
 
