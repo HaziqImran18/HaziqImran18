@@ -196,22 +196,6 @@ class Haziq:
 
 ---
 
-## 📊 GitHub Dashboard
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HaziqImran18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="GitHub stats"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=HaziqImran18&theme=dark&hide_border=true&background=0D1117&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4" alt="Streak"/>
-
-<br/><br/>
-
-<sub>📌 Language statistics are generated from public repositories. Forks, private repositories, and unsupported languages may affect results.</sub>
-
----
-
 ## 🤝 Find Me Around the Web
 
 <div align="center">
